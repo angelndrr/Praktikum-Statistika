@@ -147,7 +147,7 @@ git init
 git add .
 git commit -m "Initial Quarto book project"
 git branch -M main
-git remote add origin https://github.com/pakardata1/ebook-template-quarto.git
+git remote add origin https://github.com/angelndrr/Praktikum-Statistika.git
 git push -u origin main
 ```
 
